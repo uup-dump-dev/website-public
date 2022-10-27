@@ -160,7 +160,7 @@ $s['startDownload'] = '创建下载包';
 $s['legalCopeHarder'] = '点击<i>创建下载包</i>按钮即表示你同意以下内容：';
 $s['legalCope1'] = '使用 UUP dump 提供的脚本创建的安装映像仅可用于<b>评估目的</b>';
 $s['legalCope2'] = 'Microsoft Corporation <b>不以任何方式支持</b>映像及其部署';
-$s['legalCope3v2'] = '<b>作者对因滥用本网站</b>而造成的任何损害概不负责';
+$s['legalCope3v2'] = '<b>作者不会对</b>因滥用本网站所<b>导致的任何损害负责</b>';
 $s['win1122h2OrLater'] = 'Windows 11，版本 22H2 及以上';
 $s['requiresWindows102004'] = '此版本需要使用 Windows 10 版本 2004 或更高版本才能正确创建 ISO。其他平台的脚本将会输出一个损坏的 ISO 文件。';
 
