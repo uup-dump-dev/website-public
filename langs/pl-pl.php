@@ -78,6 +78,16 @@ $s['fetchLatestSub'] = 'Uzyskaj informacje o najnowszej kompilacji z serwerów W
 $s['newlyAdded'] = 'Nowo dodane kompilacje';
 $s['dateAdded'] = 'Data dodania';
 
+//newbuild.php
+$s['newBuild'] = 'Nowa kompilacja';
+$s['addNewBuild'] = 'Dodaj nową kompilację';
+$s['selectOptions'] = 'Wybierz opcje';
+$s['newBuildNextText'] = 'Kliknij przycisk <i>Dalej</i>, aby rozpocząć wyszukiwanie przy użyciu wybranych opcji.';
+$s['newBuildUsing'] = 'Użytkowanie tej strony';
+$s['newBuildUsingText'] = 'Strona ta jest przeznaczona do użytku przez zaawansowanych użytkowników, którzy chcą dodać kompilację, która nie jest dostępna na stronie. W przypadku gdy chcesz użyć jednej z najczęściej użytkowanych opcji, skorzystaj z jednej z <i>Szybkich opcji</i> dostępnych na stronie głównej.';
+$s['optionsNotice'] = 'Uwaga dotyczącza opcji';
+$s['optionsNoticeText'] = 'Opcje dostępne tutaj konfigurują sposób w jaki klient usługi Windows Update raportuje się serwerom firmy Microsoft. Ważne jest, aby ustawić je prawidłowo, w przeciwnym wypadku otrzymany zostanie błąd.';
+
 //known.php
 $s['browseKnown'] = 'Przeglądaj znane kompilacje';
 $s['chooseBuild'] = 'Wybierz kompilację';

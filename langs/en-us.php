@@ -78,6 +78,16 @@ $s['fetchLatestSub'] = 'Retrieve the latest build information from Windows Updat
 $s['newlyAdded'] = 'Recently added builds';
 $s['dateAdded'] = 'Date added';
 
+//newbuild.php
+$s['newBuild'] = 'New build';
+$s['addNewBuild'] = 'Add a new build';
+$s['selectOptions'] = 'Select options';
+$s['newBuildNextText'] = 'Click the <i>Next</i> button to start searching with the specified options.';
+$s['newBuildUsing'] = 'Using this page';
+$s['newBuildUsingText'] = 'This page is meant to be used by advanced users, who would like to add a build not found on the website. In case you want to use one of the most commonly used parameters, please use one of the <i>Quick options</i> found on the home page.';
+$s['optionsNotice'] = 'Options notice';
+$s['optionsNoticeText'] = 'Options found here configure how the underlying Windows Update client reports itself to the Microsoft servers. It is crucial to set these properly, otherwise you will receive an error.';
+
 //known.php
 $s['browseKnown'] = 'Browse known builds';
 $s['chooseBuild'] = 'Choose build';

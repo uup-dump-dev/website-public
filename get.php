@@ -532,8 +532,8 @@ SCRIPT;
         $zip->addFromString('uup_download_windows.cmd', $cmdScript);
         $zip->addFromString('uup_download_linux.sh', $shellScript);
         $zip->addFromString('uup_download_macos.sh', $shellScript);
-        $zip->addFile($currDir.'/autodl_files/readme.unix.md', 'readme.unix.md');
-        $zip->addFile($currDir.'/autodl_files/depends_win.ps1', 'files/depends_win.ps1');
+        $zip->addFile($currDir.'/public/autodl_files/readme.unix.md', 'readme.unix.md');
+        $zip->addFile($currDir.'/public/autodl_files/depends_win.ps1', 'files/depends_win.ps1');
         $zip->close();
     } else {
         echo 'Failed to create archive.';
