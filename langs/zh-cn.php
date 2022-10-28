@@ -78,6 +78,16 @@ $s['fetchLatestSub'] = '从 Windows 更新服务器检索最新的内部版本�
 $s['newlyAdded'] = '新增内部版本';
 $s['dateAdded'] = '添加日期';
 
+//newbuild.php
+$s['newBuild'] = '新增内部版本';
+$s['addNewBuild'] = '添加新内部版本';
+$s['selectOptions'] = '选择选项';
+$s['newBuildNextText'] = '点击<i>下一步</i>按钮开始搜索指定的选项。';
+$s['newBuildUsing'] = '使用此页面';
+$s['newBuildUsingText'] = '此页面旨在供希望添加在网站上找不到的版本的高级用户使用。如果你想使用最常用的参数之一，请使用主页上的<i>快速选项</i>之一。';
+$s['optionsNotice'] = '选项注意';
+$s['optionsNoticeText'] = '此处找到的选项配置基础 Windows 更新客户端如何向 Microsoft 服务器报告自身。正确设置这些内容至关重要，否则你将会收到错误。';
+
 //known.php
 $s['browseKnown'] = '浏览已知内部版本';
 $s['chooseBuild'] = '选择内部版本';
