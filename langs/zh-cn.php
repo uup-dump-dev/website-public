@@ -78,6 +78,16 @@ $s['fetchLatestSub'] = '从 Windows 更新服务器检索最新的内部版本�
 $s['newlyAdded'] = '新增内部版本';
 $s['dateAdded'] = '添加日期';
 
+//newbuild.php
+$s['newBuild'] = '新增内部版本';
+$s['addNewBuild'] = '添加新内部版本';
+$s['selectOptions'] = '选择选项';
+$s['newBuildNextText'] = '点击<i>下一步</i>按钮开始搜索指定的选项。';
+$s['newBuildUsing'] = '使用此页面';
+$s['newBuildUsingText'] = '此页面旨在供希望添加在网站上找不到的版本的高级用户使用。如果你想使用最常用的参数之一，请使用主页上的<i>快速选项</i>之一。';
+$s['optionsNotice'] = '选项注意';
+$s['optionsNoticeText'] = '在此处查找的选项配置基于 Windows 更新客户端向 Microsoft 服务器报告自身的方式。正确设置这些内容至关重要，否则你将会收到错误。';
+
 //known.php
 $s['browseKnown'] = '浏览已知内部版本';
 $s['chooseBuild'] = '选择内部版本';
@@ -160,7 +170,7 @@ $s['startDownload'] = '创建下载包';
 $s['legalCopeHarder'] = '点击<i>创建下载包</i>按钮即表示你同意以下内容：';
 $s['legalCope1'] = '使用 UUP dump 提供的脚本创建的安装映像仅可用于<b>评估目的</b>';
 $s['legalCope2'] = 'Microsoft Corporation <b>不以任何方式支持</b>映像及其部署';
-$s['legalCope3'] = '根据项目许可条款，<b>作者不对任何损害负责</b>';
+$s['legalCope3v2'] = '<b>作者不会对</b>因滥用本网站所<b>导致的任何损害负责</b>';
 $s['win1122h2OrLater'] = 'Windows 11，版本 22H2 及以上';
 $s['requiresWindows102004'] = '此版本需要使用 Windows 10 版本 2004 或更高版本才能正确创建 ISO。其他平台的脚本将会输出一个损坏的 ISO 文件。';
 
